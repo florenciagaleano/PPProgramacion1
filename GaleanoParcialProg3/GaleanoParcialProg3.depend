@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589804202 source:c:\florencia galeano\lab,programacion\galeanoparcialprog3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
